@@ -1,7 +1,6 @@
 from tkinter import Button, Canvas, Tk, PhotoImage, Label
 import math
 
-# ---------------------------- CONSTANTS ------------------------------- #
 ORANGE = "#FC6736"
 RED = "#FE0000"
 GREEN = "#5D9C59"
